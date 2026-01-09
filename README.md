@@ -2,15 +2,16 @@
   <img src="dev.jpeg" width="200" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
-<h3 align="center">Aspiring Software Developer | Web Development Enthusiast</h3>
+<h3 align="center"> Development/Operations Engineer Specialist | Web Development Enthusiast</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🌱 Currently learning **Web Development**
-- 💻 Interested in **Frontend & Backend Development**
-- 🚀 Love building small projects and improving skills
-- 📘 Exploring **HTML, CSS, PHP**
+- 👩‍💻 3+ years working on development, automation, and infrastructure reliability
+- ⚙️ Automated operational workflows using scripts and tools, improving turnaround time by 35%+
+- 📊 Built monitoring dashboards tracking 100+ KPIs for infrastructure health and performance
+- 🔍 Managed and optimized Zabbix monitoring, alerts, and incident analysis
+- 🚀 Continuously learning and building projects around DevOps, monitoring, and automation engineering
 
 ---
 
@@ -18,8 +19,19 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+
+  <!-- Development Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <!-- Email / Infra / Security (custom icons) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexchange.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zabbix.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proofpoint.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quest.svg" width="40"/>
 </p>
 
 ---
