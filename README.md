@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="developer.jpeg" width="200" style="border-radius: 50%;" />
+  <img src="dev.jpeg" width="200" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
 <h3 align="center">Aspiring Software Developer | Web Development Enthusiast</h3>
