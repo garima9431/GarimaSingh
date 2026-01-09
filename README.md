@@ -28,10 +28,9 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <!-- Email / Infra / Security (custom icons) -->
-  <img src="https://it.utah.edu/node4/posts/2021/may/exchange-online.php" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zabbix.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proofpoint.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quest.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40"/>
+  <b>&nbsp;Zabbix · Proofpoint · Quest</b>
 </p>
 
 ---
