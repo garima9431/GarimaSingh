@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: add-your-link-here
+- 📧 Email: garimasingh9431@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/garima-singh-2027991a4/
 
 ---
 
