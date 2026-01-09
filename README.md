@@ -30,8 +30,8 @@
   <!-- Email / Infra / Security (custom icons) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="out.jpeg" width="40"/>
-   <img src="out.jpeg" width="40"/>
-    <img src="out.jpeg" width="40"/>
+   <img src="quest.png" width="40"/>
+    <img src="zabbix.png" width="40"/>
 </p>
 
 ---
