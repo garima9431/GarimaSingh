@@ -29,8 +29,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <!-- Email / Infra / Security (custom icons) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40"/>
-  <b>&nbsp;Zabbix · Proofpoint · Quest</b>
+  <img src="out.jpeg" width="40"/>
+   <img src="out.jpeg" width="40"/>
+    <img src="out.jpeg" width="40"/>
 </p>
 
 ---
