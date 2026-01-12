@@ -2,7 +2,7 @@
   <img src="dev.jpeg" width="200" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
-<h3 align="center"> Development/Operations Engineer Specialist | Web Development Enthusiast</h3>
+<h3 align="center"> Dev/Ops Engineer Specialist </h3>
 
 ---
 
@@ -37,6 +37,8 @@
 ---
 
 ## 🚀 Projects
+-  🔹**ON-Call Scheduler** –  Built using JS, HTML, CSS, Nodejs,Mongodb (A centralized availability and scheduling portal that lets users easily mark availability, download records, review provisional schedules, and view final schedules in a calendar—soon enhanced with automated on-call scheduling and an improved, intuitive UI)
+-  🔹**UC Info Website** –  Built using JS, HTML, CSS (A goto page from where all the important links are accessible )
 - 🔹 **Website Development Project** – Built using PHP & HTML  
 - 🔹 **Finance System Management** – HTML-based project
 
